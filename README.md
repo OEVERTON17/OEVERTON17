@@ -6,4 +6,4 @@ eu sou o Everton tenho 17 anos , sou desenvolvedor de Games faço repositarios. 
 
 ## objetivos 
 
-conseguir ganhar o salario do sonhos 15 mil 
+conseguir ganhar o salário do sonhos 15 mil 
