@@ -2,8 +2,8 @@
 
 ## bem-vindo 
 
-eu sou o Everton tenho 17 anos , sou desenvolvedor de Games faço repositarios. fiquei a vontande para dar uma olhada nós meus repositorios.
+Eu sou o Everton, tenho 17 anos, sou desenvolvedor de Games, faço repositórios. Fique a vontade para dar uma olhada nós meus repositórios.
 
 ## objetivos 
 
-conseguir ganhar o salário do sonhos 15 mil 
+Conseguir ganhar o salário do sonho 15 mil!
